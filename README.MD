@@ -231,4 +231,5 @@ List of installed extensions
 
 ---
 **© 2025 Checkmed - HealthSearch Prototype by Harshal Abak**
+
 *AI-powered semantic search for clinical notes.*
